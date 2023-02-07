@@ -1,3 +1,5 @@
+#pip install requests
+
 import requests
 
 def google_search(query):

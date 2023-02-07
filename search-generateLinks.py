@@ -1,3 +1,5 @@
+#pip install google
+
 from googlesearch import search
 
 query = "Java"
